@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventPoster.Service", "EventPoster.Service\EventPoster.Service.csproj", "{388CF1A7-1653-47E0-ABA5-5141C4BC0DE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventPoster.DataAccess", "EventPoster.DataAccess\EventPoster.DataAccess.csproj", "{39F281A2-088A-48EE-88D7-744AB871EEC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{388CF1A7-1653-47E0-ABA5-5141C4BC0DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{388CF1A7-1653-47E0-ABA5-5141C4BC0DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{388CF1A7-1653-47E0-ABA5-5141C4BC0DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39F281A2-088A-48EE-88D7-744AB871EEC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F281A2-088A-48EE-88D7-744AB871EEC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F281A2-088A-48EE-88D7-744AB871EEC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F281A2-088A-48EE-88D7-744AB871EEC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
